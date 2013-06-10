@@ -1,0 +1,15 @@
+{
+    "name": "kennisnet/forwarding-rules-strip-index",
+    "type": "yourls-plugin",
+    "description": "forwarding-rules filter that adds request variants with index.php (or html, htm) removed.",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Frank Matheron",
+            "email": "frankmatheron@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
